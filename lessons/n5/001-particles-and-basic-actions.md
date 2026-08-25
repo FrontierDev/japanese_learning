@@ -7,138 +7,96 @@
 ## Objectives
 
 - Choose core particles は / を / に / で in practical travel and shopping sentences.
-- Understand and produce basic polite verb present and past forms in useful contexts.
-- Stabilise 今日 / 明日 / 昨日 and begin reading time expressions with 三・七・時.
+- Understand and produce polite verb non-past, past, negative, and past-negative forms in useful contexts.
+- Stabilise 今日 / 明日 / 昨日 and a small set of high-value kanji-bearing words before adding further kanji.
 
 ## Review
 
-Test these before showing explanations. Do not reteach them from zero unless retrieval fails.
+The session opened with uncued retrieval of:
 
-### Phrases
+- 駅はどこですか。
+- ～ですか question formation.
+- ～じゃないです negative noun / な-adjective pattern.
+- 日本.
 
-- 駅はどこですか。 — require active production from English.
-
-### Grammar
-
-- ～ですか — ask one uncued practical question.
-- ～じゃないです — make one な-adjective or noun predicate negative.
-
-### Kanji / vocabulary
-
-- 日本 — confirm reading and meaning.
-- Check whether 日 and 本 are recognised outside 日本; do not assume isolated mastery from the placement result.
+The learner retrieved the question forms and 日本 successfully. The ～じゃないです grammar was correct, but 静か was not retrieved and remains a vocabulary target.
 
 ## New grammar
 
 ### Practical core particles: は / を / に / で
 
-**Meaning:**
+**Meaning and roles:**
 
 - **は** marks the topic: what the sentence is about.
 - **を** marks the direct object of an action.
-- **に** marks a destination or a specific time.
+- **に** marks a destination or a specific point in time.
 - **で** marks the place where an action happens or the means used to travel.
 
-**Formation and useful contrasts:**
+**Useful contrasts:**
 
-- 私は京都に行きます。 — I go / will go to Kyoto.
-- コンビニで水を買います。 — I buy water at the convenience store.
-- 水を買います。 — I buy water.
-- 七時に行きます。 — I go at seven.
-- 電車で行きます。 — I go by train.
+- 京都に行きます。 — go to Kyoto.
+- 京都で食べます。 — eat in Kyoto.
+- 電車で行きます。 — go by train.
+- 水を買います。 — buy water.
+- コンビニで水を買います。 — buy water at a convenience store.
 
-**Use / nuance:** Do not teach the particles as interchangeable English prepositions. Contrast them through roles in complete sentences. Give active particle selection after each example.
+The learner initially swapped を and で in コンビニを水で買います, then corrected the distinction and used を / に / で successfully in later production and the mastery check.
 
-### Polite verb forms: ～ます / ～ました / ～ません
+### Polite verb forms
 
-**Meaning:** basic polite non-past, past, and negative verb forms.
+| Form | Function | Example |
+|---|---|---|
+| ～ます | polite non-past | 買います |
+| ～ました | polite past | 買いました |
+| ～ません | polite non-past negative | 買いません |
+| ～ませんでした | polite past negative | 買いませんでした |
 
-**Formation:** teach the useful forms as vocabulary-linked patterns first; full verb-group mechanics can be expanded in Phase 2.
+Japanese non-past can express present or future depending on context. Time words such as 明日 and 昨日 establish the intended time.
 
-| Verb | Non-past | Past | Negative |
-|---|---|---|---|
-| 行く | 行きます | 行きました | 行きません |
-| 食べる | 食べます | 食べました | 食べません |
-| 買う | 買います | 買いました | 買いません |
+The past-negative form ～ませんでした was added during the session after it became clear it had not previously been taught. The learner subsequently produced 買いませんでした, 食べませんでした, and 行きませんでした correctly.
 
-**Use / nuance:** Japanese non-past can describe present habitual action or future action depending on context. Time words such as 明日 and 昨日 usually make the intended time clear.
+## Kanji / vocabulary focus
 
-**Useful examples:**
+The planned introduction of **三・七・時** was deliberately deferred. The learner requested that the existing unfamiliar kanji-bearing words be stabilised first.
 
-1. 明日、京都に行きます。
-2. 昨日、レストランで食べました。
-3. 今日は電車で行きません。
+Current priority words:
 
-## New kanji
-
-| Kanji | Core meaning | Useful reading(s) | Useful words |
-|---|---|---|---|
-| 三 | three | さん | 三時 |
-| 七 | seven | しち・なな | 七時 |
-| 時 | time / hour | じ・とき | 三時、七時 |
-
-Teach these through time expressions rather than isolated keyword recall.
-
-## Useful language
-
-- 今日（きょう） — today
+- 電車（でんしゃ） — train
 - 明日（あした） — tomorrow
 - 昨日（きのう） — yesterday
-- 今（いま） — now
-- 駅（えき） — station
-- 電車（でんしゃ） — train
-- コンビニ — convenience store
-- 水（みず） — water
-- 行きます（いきます） — go / will go
+- 今日（きょう） — today
 - 買います（かいます） — buy / will buy
+- 行きます（いきます） — go / will go
 - 食べます（たべます） — eat / will eat
 
-Give the learner repeated contrasts between 今日 / 明日 / 昨日 because 明日 was confused with 昨日 during placement.
+Teach these primarily as useful whole words. Do not infer isolated-character mastery from successful whole-word reading.
+
+## Practical language used
+
+- コンビニ — convenience store
+- 水（みず） — water
+- 京都（きょうと） — Kyoto
+- レストラン — restaurant
+- 静か（しずか） — quiet; failed retrieval and due for review
 
 ## Comprehension
 
-Present without translation first:
+The learner successfully understood a short exchange about whether someone would go to Kyoto tomorrow and whether they would travel by train.
 
-> A: すみません、駅はどこですか。  
-> B: あそこです。  
-> A: この電車は京都に行きますか。  
-> B: はい、行きます。七時に出ます。  
-> A: ありがとうございます。
+## Production and mastery
 
-Ask:
+By the final uncued mastery check the learner correctly produced:
 
-1. What is A looking for?
-2. Does the train go to Kyoto?
-3. What time does it leave?
+1. 昨日、コンビニで水をかいました。
+2. 明日、京都に行きません。
+3. 今日、電車でいきます。
+4. 昨日、レストランで食べませんでした。
 
-Only explain unknown vocabulary after the learner attempts comprehension.
-
-## Production
-
-1. Say naturally: “I will go to Kyoto tomorrow.”
-2. Say naturally: “I bought water at the convenience store yesterday.”
-3. Ask: “Where is the station?”
-4. Make a practical sentence using **で** for transport.
-5. Change **食べます** to the past and negative forms.
-
-## Mastery check
-
-Use uncued or lightly cued retrieval.
-
-1. Choose the particles: コンビニ___水___買いました。
-2. Choose the particles: 京都___電車___行きます。
-3. Translate: “I went yesterday.”
-4. Read and explain: 三時 / 七時.
-5. Distinguish without prompts: 今日 / 明日 / 昨日.
-6. Produce one new ～ですか question and one ～じゃないです sentence to confirm the placement strengths remain available in mixed use.
+Kana in place of known-but-not-yet-stable kanji was accepted. Earlier errors included one 明日 / 昨日 confusion, one non-past/past mismatch after 昨日, one omitted negative, and one incomplete 買い verb stem; each was corrected successfully.
 
 ## Tutor writeback
 
-After the interactive session:
-
-- update particle and polite-verb grammar states based on active production;
-- update 三・七・時 and any reviewed 日・本 rows;
-- add useful vocabulary actually retrieved or learned;
-- increment 駅はどこですか only if it is deliberately retrieved again;
-- append exactly one row to `data/learning_log.csv`;
-- set the next lesson from actual performance rather than advancing automatically.
+- Keep particles and polite verb forms in `learning` until they survive spaced retrieval.
+- Review 電車 / 明日 / 昨日 / 今日 / 買います / 行きます / 食べます before adding another kanji batch.
+- Review 静か actively.
+- Defer 三・七・時 and other untouched placement kanji until the current set is stable enough to avoid overload.
