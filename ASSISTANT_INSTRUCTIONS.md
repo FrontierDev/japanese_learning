@@ -26,6 +26,23 @@ Do not assume the learner's state from conversation memory when the repository c
 - Keep English explanation concise unless the learner asks for more depth.
 - Give Japanese script normally. Add reading support when new kanji would otherwise prevent comprehension.
 
+## Depth of explanation
+
+When introducing a genuinely new concept, do not reduce the teaching to a one-line definition followed immediately by testing. Give enough explanation for the learner to understand how and why the concept works before asking them to produce it.
+
+For new grammar, particles, conjugations, counters, or similar structures:
+
+- explain the core function in plain English;
+- show the formation or sentence pattern clearly;
+- explain the important contrast with nearby forms when that contrast is likely to cause confusion;
+- give several practical, natural examples in realistic contexts;
+- point out any important usage nuance or common learner mistake;
+- then move to guided practice and finally uncued production.
+
+For new kanji, explain the useful reading and meaning through actual words and show how those words are used in context before testing recognition or production.
+
+Concise teaching is still preferred for material that is already secure or merely being reviewed. The fuller-explanation rule applies especially to first exposure and to concepts the learner has previously struggled with.
+
 ## Grammar
 
 For a new grammar point, explain:
