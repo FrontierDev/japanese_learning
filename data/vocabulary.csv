@@ -1,1 +1,13 @@
 id,japanese,reading,english,status,introduced,revisions,last_review,next_review,tags,notes
+v_densha,電車,でんしゃ,train,learning,2026-08-25,1,2026-08-25,2026-08-26,travel;transport,"Correctly recalled meaning and reading, then used repeatedly in production."
+v_ashita,明日,あした,tomorrow,learning,2026-08-25,1,2026-08-25,2026-08-26,time,"Initially confused with 昨日 during placement; correctly distinguished and used repeatedly by the end of Lesson 001."
+v_kinou,昨日,きのう,yesterday,learning,2026-08-25,1,2026-08-25,2026-08-26,time,"Correctly recalled meaning and reading in Lesson 001 after earlier placement confusion with 明日."
+v_kyou,今日,きょう,today,learning,2026-08-25,1,2026-08-25,2026-08-26,time,"Used correctly with non-past and negative verb forms."
+v_kaimasu,買います,かいます,buy / will buy,learning,2026-08-25,1,2026-08-25,2026-08-26,verbs;shopping,"Meaning and reading recalled correctly. One incomplete 買い and one tense mismatch with 昨日 occurred before successful correction and final mastery."
+v_ikimasu,行きます,いきます,go / will go,learning,2026-08-25,1,2026-08-25,2026-08-26,verbs;movement,"Meaning and reading recalled correctly; positive, negative and past-negative forms were produced successfully."
+v_tabemasu,食べます,たべます,eat / will eat,learning,2026-08-25,1,2026-08-25,2026-08-26,verbs;food,"Used correctly as 食べました, 食べません and 食べませんでした."
+v_mizu,水,みず,water,learning,2026-08-25,1,2026-08-25,2026-08-26,shopping;food,"Produced correctly as the object in 水を買います / 買いました."
+v_konbini,コンビニ,コンビニ,convenience store,review,2026-08-25,1,2026-08-25,2026-08-28,places;shopping,"Recognised from placement and used repeatedly in correct コンビニで patterns."
+v_kyoto,京都,きょうと,Kyoto,learning,2026-08-25,1,2026-08-25,2026-08-26,places;travel,"Used repeatedly with destination に; reading should still be checked explicitly in a later review."
+v_restaurant,レストラン,レストラン,restaurant,review,2026-08-25,1,2026-08-25,2026-08-28,places;food,"Used repeatedly and correctly with で."
+v_shizuka,静か,しずか,quiet,new,2026-08-25,0,,2026-08-26,adjectives,"Not retrieved in the opening review; learner supplied English 'quiet' inside an otherwise correct ～じゃないです sentence. Needs active retrieval next session."
