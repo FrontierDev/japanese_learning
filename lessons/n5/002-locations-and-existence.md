@@ -1,6 +1,6 @@
 # Lesson 002 — Locations and Existence
 
-**Date:** next session  
+**Date:** 2026-08-25  
 **Level:** N5  
 **Phase:** 1 — Navigation and basic interactions
 
@@ -145,12 +145,20 @@ Use uncued or lightly cued retrieval:
 4. Translate: "I bought water at the convenience store yesterday." to ensure Lesson 001 remains available.
 5. Read and explain two items from 電車 / 明日 / 昨日 / 今日 / 買います / 行きます / 食べます.
 
+## Session outcome
+
+- Current kanji-bearing review was strong: 電車・明日・昨日・今日・買います were recalled with correct meanings and readings; 行きます and 食べます were also retrieved successfully in later production.
+- 静か was recalled correctly, but the learner initially used the verb negative ending in 静かません before correcting to 静かじゃないです. Keep this contrast on short review.
+- あります / います were distinguished correctly for inanimate versus animate referents and used successfully in practical location sentences.
+- One early action-location sentence used に instead of で; later contrasts such as ホテルで食べます versus ホテルにレストランがあります were correct.
+- One early nearby-existence sentence used unnatural order and omitted location に; later 近くにコンビニがありますか was produced correctly.
+- 駅の前 was initially understood as "at the station" rather than "in front of the station," then used correctly in subsequent production.
+- Final uncued mastery check: **5/5**.
+- No new kanji batch was introduced. 三・七・時 remain deferred for the next lesson.
+
 ## Tutor writeback
 
-After the interactive session:
-
-- update ある / いる and any new location-language rows based on active production;
-- update the current kanji-bearing vocabulary only after deliberate retrieval;
-- do not introduce the deferred placement kanji unless the current review is strong;
-- append exactly one row to `data/learning_log.csv`;
-- update `data/progress.csv` from actual performance.
+- あります / います and new location vocabulary remain in `learning` and are due for short-interval review.
+- に / で and 静か + ～じゃないです remain on short review because each caused an early error before successful correction.
+- Successfully retrieved Lesson 001 vocabulary and verb forms can move to a longer interval.
+- 三・七・時 remain deferred until Lesson 003.
