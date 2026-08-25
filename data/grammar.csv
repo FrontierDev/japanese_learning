@@ -1,1 +1,3 @@
 id,pattern,meaning,status,introduced,revisions,last_review,next_review,tags,notes
+g_question_ka,～ですか,polite question formation,review,2026-08-25,1,2026-08-25,2026-08-28,questions,"Correctly produced 駅はどこですか and この電車は速いですか during placement."
+g_na_adj_negative,～じゃないです,polite negative for noun and な-adjective predicates,review,2026-08-25,1,2026-08-25,2026-08-28,adjectives,"Correctly produced このホテルは静かじゃないです during placement; retain in mixed review rather than reteaching from zero."
