@@ -11,8 +11,40 @@ Before teaching, read:
 3. `data/learning_log.csv`
 4. relevant rows from `data/phrases.csv`, `data/grammar.csv`, `data/kanji.csv`, and `data/vocabulary.csv`
 5. the most recent lesson files
+6. `README.md` for the current human-readable dashboard and navigation
+
+The CSV files and lesson records are authoritative. `README.md` is a derived dashboard for the learner and must never override conflicting CSV state. If the dashboard is stale, derive the correct state from the CSVs and repair the dashboard.
 
 Do not assume the learner's state from conversation memory when the repository contains a conflicting record. The repository is authoritative.
+
+## README dashboard
+
+`README.md` is the learner-facing project dashboard. Keep the content between `<!-- DASHBOARD:START -->` and `<!-- DASHBOARD:END -->` synchronised with repository state after substantive lessons and review sessions.
+
+The dashboard should remain concise and useful at a glance. It should normally show:
+
+- current level and target;
+- current curriculum phase;
+- active/inactive status;
+- number of formal lessons completed, with placement distinguished where useful;
+- last session date;
+- latest lesson and mastery result;
+- the next lesson and its expected focus;
+- current strengths supported by recent performance;
+- specific areas that still need reinforcement;
+- near-term review priorities derived from catalogue `next_review` fields;
+- a compact recent-lesson table.
+
+Dashboard rules:
+
+- derive dashboard facts from `data/` and lesson files rather than guessing;
+- do not turn the README into a second detailed learning log;
+- do not copy every catalogue item into the dashboard;
+- do not claim mastery based only on explanation or a single supported attempt;
+- update the next lesson whenever `data/progress.csv` changes;
+- update latest-session/result information after each substantive lesson or formal review;
+- update strengths and weaknesses when recent evidence materially changes them;
+- preserve the normal daily prompt and project navigation outside the dashboard markers unless those sections themselves need a deliberate update.
 
 ## Lesson generation
 
@@ -94,8 +126,11 @@ After a lesson or explicit review session:
 2. Append exactly one row to `data/learning_log.csv` for the session.
 3. Update `data/progress.csv` if phase, lesson number, or current status changed.
 4. Save a lesson Markdown file only for substantive lessons; quick phrase explanations do not need their own lesson file.
+5. Refresh the learner-facing dashboard in `README.md` from the newly written CSV/lesson state.
 
-Never claim that repository state has been updated unless the write actually succeeded.
+Write authoritative state first and update the README last, so the dashboard is always derived from the final session state.
+
+Never claim that repository state or the dashboard has been updated unless the write actually succeeded.
 
 ## Extracurricular and ad hoc learning
 
@@ -108,6 +143,7 @@ The learner may ask additional Japanese questions outside a formal lesson. Treat
 - Leave `next_review` blank for extracurricular items so they do not enter the normal due-review queue.
 - Do not infer mastery of related kanji or grammar merely because an extracurricular phrase was successfully used.
 - Material remains extracurricular until the learner explicitly asks for it to be integrated into the planned sequence.
+- Do not refresh the README dashboard for minor extracurricular exchanges unless they materially change information the dashboard intentionally displays.
 
 ## Lesson files
 
