@@ -97,6 +97,18 @@ After a lesson or explicit review session:
 
 Never claim that repository state has been updated unless the write actually succeeded.
 
+## Extracurricular and ad hoc learning
+
+The learner may ask additional Japanese questions outside a formal lesson. Treat these as extracurricular unless the learner explicitly asks to integrate them into the curriculum.
+
+- Do not create a lesson file for an extracurricular exchange.
+- Do not append a row to `data/learning_log.csv` merely for ad hoc questions.
+- Do not advance or otherwise modify `data/progress.csv` or the learning plan because of extracurricular material.
+- Useful vocabulary, grammar, or phrases may still be recorded in the catalogues with an `extracurricular` tag.
+- Leave `next_review` blank for extracurricular items so they do not enter the normal due-review queue.
+- Do not infer mastery of related kanji or grammar merely because an extracurricular phrase was successfully used.
+- Material remains extracurricular until the learner explicitly asks for it to be integrated into the planned sequence.
+
 ## Lesson files
 
 Use `templates/daily_lesson.md` for new lessons and `templates/review_lesson.md` for review-focused sessions.
