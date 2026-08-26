@@ -4,10 +4,10 @@ These are the recommended copy-paste prompts for interacting with this project. 
 
 ## 1. Start or continue today's lesson
 
-Use this as the normal daily prompt.
+Use this as the normal daily prompt. The same prompt is kept in `README.md` so it is immediately available from the project dashboard.
 
 ```text
-Begin today's Japanese lesson. Read FrontierDev/japanese_learning first, including the learning plan, current progress, learning log, catalogues, and recent lessons. Build today's lesson from my actual recorded state. Follow the accelerated N5 plan, include due revision, grammar and kanji, and use practical natural Japanese rather than artificial textbook examples. Teach interactively rather than giving me all the answers at once. At the end of the session, update the repository with what I encountered, revised, succeeded at, or struggled with.
+Begin today's Japanese lesson. Read FrontierDev/japanese_learning first, including the learning plan, current progress, learning log, catalogues, recent lessons, and dashboard. Build today's lesson from my actual recorded state. Follow the accelerated N5 plan, include due revision, grammar and kanji, and use practical natural Japanese rather than artificial textbook examples. Teach interactively rather than giving me all the answers at once. At the end of the session, update the repository with what I encountered, revised, succeeded at, or struggled with, and refresh the README dashboard so it accurately shows my current progress and next lesson.
 ```
 
 ## 2. First session / placement test
@@ -15,19 +15,19 @@ Begin today's Japanese lesson. Read FrontierDev/japanese_learning first, includi
 Use this before beginning the main lesson sequence.
 
 ```text
-Run my N5 placement lesson from FrontierDev/japanese_learning. I already know hiragana and katakana and I know some Japanese grammar, so test what I can actually understand and produce rather than teaching from zero. Work through the diagnostic interactively. When it is complete, update the repository so secure material can be compressed or skipped and weak areas can be prioritised.
+Run my N5 placement lesson from FrontierDev/japanese_learning. I already know hiragana and katakana and I know some Japanese grammar, so test what I can actually understand and produce rather than teaching from zero. Work through the diagnostic interactively. When it is complete, update the repository so secure material can be compressed or skipped and weak areas can be prioritised, then refresh the README dashboard with the resulting starting state and next lesson.
 ```
 
 ## 3. Review session only
 
 ```text
-Give me a Japanese review session using FrontierDev/japanese_learning. Read the CSV catalogues and learning log, select material that is due or weak, and test me by active recall rather than simply showing the answers. Mix phrases, grammar, kanji, vocabulary, reading, and production where appropriate. Do not introduce significant new material. At the end, update revision counts, statuses, next-review dates, and the learning log.
+Give me a Japanese review session using FrontierDev/japanese_learning. Read the CSV catalogues and learning log, select material that is due or weak, and test me by active recall rather than simply showing the answers. Mix phrases, grammar, kanji, vocabulary, reading, and production where appropriate. Do not introduce significant new material. At the end, update revision counts, statuses, next-review dates, and the learning log, then refresh the README dashboard if the session materially changes my current strengths, weaknesses, review priorities, or next lesson.
 ```
 
 ## 4. Short review when I have little time
 
 ```text
-Give me a 10-minute Japanese review using FrontierDev/japanese_learning. Prioritise the most overdue or weakest items. Test me interactively and update the repository afterward.
+Give me a 10-minute Japanese review using FrontierDev/japanese_learning. Prioritise the most overdue or weakest items. Test me interactively and update the repository afterward. Refresh the README dashboard if the review materially changes the progress information shown there.
 ```
 
 ## 5. Explain a phrase I encountered
@@ -93,7 +93,7 @@ Give me a short practical Japanese reading exercise appropriate to my current le
 ## 13. Check progress
 
 ```text
-Read FrontierDev/japanese_learning and give me a concise progress report. Tell me what N5 material is secure, what is currently being learned, what is weak or overdue for review, how far through the curriculum I am, and what the next few lessons should focus on. Base this only on the repository data rather than guessing from chat history.
+Read FrontierDev/japanese_learning and give me a concise progress report. Tell me what N5 material is secure, what is currently being learned, what is weak or overdue for review, how far through the curriculum I am, and what the next few lessons should focus on. Base this only on the repository data rather than guessing from chat history. If README.md is stale relative to the authoritative CSV and lesson state, repair its dashboard as part of this check.
 ```
 
 ## 14. End a session and make sure it is saved
@@ -101,13 +101,13 @@ Read FrontierDev/japanese_learning and give me a concise progress report. Tell m
 Use this if a session has wandered into ordinary conversation and you want to force a writeback.
 
 ```text
-End this Japanese study session. Summarise what I actually learned or revised in this conversation, then write the appropriate changes to FrontierDev/japanese_learning: catalogue updates, revision counts, statuses, next-review dates, one learning-log row, and progress if necessary. Do not mark something mastered merely because it was explained to me. Confirm exactly which repository files were changed.
+End this Japanese study session. Summarise what I actually learned or revised in this conversation, then write the appropriate changes to FrontierDev/japanese_learning: catalogue updates, revision counts, statuses, next-review dates, one learning-log row, and progress if necessary. Do not mark something mastered merely because it was explained to me. After the authoritative state is saved, refresh the README dashboard so it accurately shows my current progress, strengths, weak areas, latest result, review priorities, and next lesson. Confirm exactly which repository files were changed.
 ```
 
 ## 15. Resume after time away
 
 ```text
-I am returning to Japanese study after a break. Read FrontierDev/japanese_learning, determine how long it has been since my last recorded session and what material is most in need of retrieval, then run a recovery review before introducing new material. Update the repository when we finish.
+I am returning to Japanese study after a break. Read FrontierDev/japanese_learning, determine how long it has been since my last recorded session and what material is most in need of retrieval, then run a recovery review before introducing new material. Update the repository when we finish and refresh the README dashboard to reflect the resumed study state.
 ```
 
 ## Minimal everyday prompts
@@ -134,4 +134,4 @@ How do I naturally say: [ENGLISH]
 Check this: [MY JAPANESE]
 ```
 
-For important sessions, prefer the full prompts above because they explicitly require repository read/write behaviour.
+For important sessions, prefer the full prompts above because they explicitly require repository read/write behaviour and, for substantive sessions, dashboard maintenance.
