@@ -14,61 +14,60 @@ Repository-backed Japanese learning project for accelerated daily study, beginni
 | **Curriculum phase** | Phase 1 of 6 — foundations, practical movement, locations, time, dates and basic interactions |
 | **Status** | Active |
 | **Placement** | Complete |
-| **Formal lessons completed** | 4 |
-| **Last session** | 27 August 2026 |
-| **Latest lesson** | [004 — Dates and Counters](lessons/n5/004-dates-and-counters.md) |
-| **Latest mastery check** | Partial — date/counter material progressed; mixed retrieval exposed older particle/verb weaknesses |
-| **Next lesson** | **005 — Demonstratives and Directions** |
+| **Formal lessons completed** | 5 |
+| **Last session** | 1 September 2026 |
+| **Latest lesson** | [005 — Demonstratives and Directions](lessons/n5/005-demonstratives-and-directions.md) |
+| **Latest mastery check** | Partial — 4 fully correct, 2 partial, 1 incomplete; demonstratives/directions progressed strongly while a few reading/counter items remain due |
+| **Next lesson** | **006 — Frequency and Weekdays** |
 
 ### Next lesson
 
-**005 — Demonstratives and Directions**
+**006 — Frequency and Weekdays**
 
 Expected focus:
 
-- repair the `そこ / それ` distinction exposed in Lesson 004;
-- consolidate `ここ / そこ / あそこ` and introduce the related demonstrative system in practical contexts;
-- continue mixed retrieval of destination/existence `に` versus action-location `で`;
-- reinforce `います` versus `行きます` under comprehension and production;
-- use practical station/shop/direction language and appropriate location/direction kanji;
-- include due date/counter retrieval without repeating the full Lesson 004 teaching load.
+- immediately retrieve `九時（くじ）`, `二十日（はつか）`, `三つ`, and the spelling `テーブル` before showing answers;
+- briefly re-test `そこ / それ`, `この / その / あの`, and relative locations such as `駅の右 / ホテルの左` without reteaching them if retrieval remains secure;
+- continue mixed destination/existence `に` versus action-location `で`, now as background integration rather than the entire lesson focus;
+- introduce practical N5 frequency language and weekday/schedule language in contexts such as opening days, travel plans, work and ordinary routines;
+- add an appropriate 3–5-kanji batch through useful schedule/frequency words rather than isolated character drilling;
+- retain active production and a realistic timetable/message-style comprehension task.
 
 The lesson file should be generated from the current repository state when the session begins, rather than being pre-written far in advance.
 
 ### Current strengths
 
-- Kana are already secure and are not part of the teaching sequence.
+- Kana are secure and remain outside the teaching sequence.
 - Basic polite question formation with `～ですか` is reliable.
-- Polite verb forms `～ます / ～ました / ～ません / ～ませんでした` are usable in practical production.
-- `あります` was retrieved correctly in the Lesson 004 opening review after its previous short-term error.
-- Clock time, `何時`, specific-time `に`, and `～から～まで` remain usable from Lesson 003.
-- Calendar month readings such as `三月・七月・十一月` were learned quickly.
-- Practical date sentences with date + `に` can now be produced, including sentences with both time/date `に` and destination `に`.
-- People-counter readings `一人・二人・三人・何人` and general counters `一つ・二つ・三つ` were recalled well after instruction.
-- Practical counter sentences such as `水を二つください` and `ホテルに友達が三人います` were produced correctly.
+- Polite verb forms are broadly usable; Lesson 005 repaired an opening past-tense lapse and ended with correct `買いました`.
+- `あります / います` became substantially more stable in Lesson 005, especially in repeated direction/location sentences.
+- Existence-location `に` and action-location `で` improved markedly after opening repair; final shopping production correctly used `店で`.
+- The `そこ / それ` distinction was repaired during Lesson 005, and the broader `ここ / そこ / あそこ`, `これ / それ / あれ`, and `この / その / あの + noun` systems are now usable with short review.
+- Relative-location expressions with `上・下・前・左・右` were learned quickly and used successfully in practical station/hotel/table contexts.
+- People-counter order improved from early `二人友達` / `友達三人が` errors to reliable `友達が二人います` by the final check.
+- `静かな + noun` was successfully applied after one correction, including `駅の右に静かなホテルがあります`.
 
 ### Needs reinforcement
 
-- **Destination/existence `に` versus action-location `で` remains the main active weakness.** Lesson 004 produced both `ホテルで何人いますか` and `店に二つ買います` under mixed retrieval.
-- Keep **`います` versus `行きます`** active; one Lesson 004 comprehension item interpreted an existence sentence as movement.
-- Review **`そこ` versus `それ`**; `それに猫がいます` was produced when `そこに猫がいます` was required.
-- Date readings need short-term retrieval, especially **`十六日（じゅうろくにち）`** and irregular **`二十日（はつか）`**.
-- People-counter word order and unnecessary `が` after a bare counter were unstable in harder sentences.
-- **`九時`** was misidentified as seven o'clock in the Lesson 004 opening review.
-- **`仕事`** remains unrecalled; `店` improved after being supplied and reused during the lesson.
-- Continue converting familiar words such as `電車`, `明日`, `昨日`, `買います`, and `行きます` into increasingly secure kanji recognition.
+- **`九時（くじ）` remains an immediate reading weakness.** The meaning “nine o'clock” is now known, but the final check still used `きゅう…` rather than `くじ`.
+- **`二十日（はつか）` remains an immediate irregular-date weakness.** The learner knows it means the 20th but did not retrieve the special reading in Lesson 005.
+- **`～つ` quantity retrieval needs another mixed check.** `三つ` was omitted from the final “bought three waters” sentence even though the rest of the sentence was correct.
+- **`テーブル` spelling needs short review;** `ターブル` recurred several times while the surrounding grammar was correct.
+- Keep `に / で` mixed into future production. The distinction improved, but the Lesson 005 opening still reproduced the older action-location `に` error.
+- `あれ` and `建物（たてもの）` were introduced but not independently retrieved.
+- `仕事（しごと）`, `何人`, and several older catalogue items remain overdue because they were not directly tested in Lesson 005.
+- Continue converting familiar kanji-bearing words such as `電車`, `明日`, `昨日`, `買います`, and `行きます` into increasingly automatic recognition.
 
 ### Review horizon
 
-Immediate/near-term review is driven by the `next_review` fields in the catalogues. Current priorities include:
+Immediate/near-term review is driven by the catalogue `next_review` fields. Current priorities include:
 
-- `に / で` in mixed action, destination and existence sentences;
-- `います / 行きます` comprehension and production;
-- `そこ` and the contrast with `それ`;
-- `九時`, `十六日`, `二十日`, and recently activated date kanji/readings;
-- `一人 / 二人 / 三人 / 何人` in natural sentence order;
-- `仕事`, with `店` checked again after its successful later reuse;
-- `予約は何月何日ですか` and the contrast between `予約は十一月二十日です` and `十一月二十日に行きます`.
+- immediate: `九時（くじ）`, `二十日（はつか）`, `三つ`, `テーブル`, and `近く`;
+- first retrieval: `あれ` and `建物（たてもの）`;
+- short review: `そこ / それ`, `この / その / あの`, `上 / 下`, and natural `友達が二人います` counter order;
+- mixed review: existence-location `に`, action-location `で`, `あります / います`, and past `～ました`;
+- overdue older items not reached in Lesson 005: `仕事`, `何人`, `予約は何月何日ですか`, and `ホテルに友達が何人いますか`;
+- continue spaced retrieval of `前 / 左 / 右` and useful direction phrases rather than repeating the full teaching sequence.
 
 ### Recent lessons
 
@@ -78,7 +77,8 @@ Immediate/near-term review is driven by the `next_review` fields in the catalogu
 | [001](lessons/n5/001-particles-and-basic-actions.md) | Core particles and polite verb forms | 4/4 final check |
 | [002](lessons/n5/002-locations-and-existence.md) | `あります / います`, location and action particles | 5/5 final check |
 | [003](lessons/n5/003-times-and-schedules.md) | Time, `何時`, specific-time `に`, `～から～まで` | 7/7 final check |
-| [004](lessons/n5/004-dates-and-counters.md) | Calendar dates, `何月何日`, people and general counters | Partial mixed mastery; new material progressed, older contrasts remain due |
+| [004](lessons/n5/004-dates-and-counters.md) | Calendar dates, `何月何日`, people and general counters | Partial; new material progressed but older contrasts remained due |
+| [005](lessons/n5/005-demonstratives-and-directions.md) | Demonstratives, relative locations, direction kanji | Partial; strong demonstrative/direction progress, immediate reading/counter repair still due |
 <!-- DASHBOARD:END -->
 
 ## Start today's lesson
